@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+kiet-cse/
+
+# Node.js
+node_modules/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+mlartifacts/
+
+mlops-first-pipeline/__pycache__
+mlops-first-pipeline/.pytest_cache
